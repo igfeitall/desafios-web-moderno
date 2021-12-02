@@ -23,3 +23,14 @@
 - Resolução :
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/forEach2.js).
+
+**Recriando Map**
+
+- Problema :
+
+  Recriar o Map usando prototype de Array.
+  
+
+- Resolução :
+
+  [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/map2.js).
