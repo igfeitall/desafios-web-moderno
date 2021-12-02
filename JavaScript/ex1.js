@@ -1,3 +1,5 @@
+// calcular diversas operações
+
 const calc = function(a,b){
   console.log(`
   Soma : ${a+b}

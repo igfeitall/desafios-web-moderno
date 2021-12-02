@@ -1,3 +1,5 @@
+// imprimir numeros ímpares dado um intervalo, com valores padrões na função
+
 function ImprimeÍmpar(inicio=0, fim=100){
   for(let i=inicio; i<=fim;i++){
     if(i%2 != 0){
