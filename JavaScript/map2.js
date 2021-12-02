@@ -1,7 +1,7 @@
 Array.prototype.map2 = function(callback){
 
   let result = []
-  for(let i=0; i<this.length; i++){
+  for(let i = 0; i < this.length; i++){
     aux = callback(this[i],i,this)
     result.push(aux)
   }
