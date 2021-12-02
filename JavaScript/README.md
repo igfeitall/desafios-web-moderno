@@ -1,7 +1,7 @@
 # Exercícios JavaScrip
 
 ### Exercícios Importantes
-​	***Notas de Alunos - 23***
+​	**Notas de Alunos - 23**
 
 - Problema :
 
@@ -12,3 +12,14 @@
 - Resolução :
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/ex23.js).
+
+​	**Recriando ForEach**
+
+- Problema :
+
+  Recriar o ForEach usando prototype de Array.
+  
+
+- Resolução :
+
+  [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/forEach2.js).
