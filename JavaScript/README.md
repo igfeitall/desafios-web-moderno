@@ -1,7 +1,8 @@
 # Exercícios JavaScrip
 
 ### Exercícios Importantes
-​	**Notas de Alunos - 23**
+
+### Notas de Alunos - 23
 
 - Problema :
 
@@ -13,7 +14,7 @@
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/ex23.js).
 
-​	**Recriando ForEach**
+### Recriando ForEach
 
 - Problema :
 
@@ -24,7 +25,7 @@
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/forEach2.js).
 
-**Recriando Map**
+### Recriando Map
 
 - Problema :
 
@@ -34,3 +35,14 @@
 - Resolução :
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/map2.js).
+
+### Recriando filter
+
+- Problema :
+
+  Recriar o filter usando prototype de Array.
+  
+
+- Resolução :
+
+  [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/filter2.js).
