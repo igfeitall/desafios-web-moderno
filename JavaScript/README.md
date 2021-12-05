@@ -1,4 +1,4 @@
-# Exercícios JavaScrip
+# Exercícios JavaScript
 
 ### Exercícios Importantes
 
@@ -20,7 +20,6 @@
 
   Recriar o ForEach usando prototype de Array.
   
-
 - Resolução :
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/forEach2.js).
@@ -31,7 +30,6 @@
 
   Recriar o Map usando prototype de Array.
   
-
 - Resolução :
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/map2.js).
@@ -42,7 +40,6 @@
 
   Recriar o filter usando prototype de Array.
   
-
 - Resolução :
 
   [Ver Resolução](https://github.com/igfeitall/desafios-web-moderno/blob/main/JavaScript/filter2.js).
