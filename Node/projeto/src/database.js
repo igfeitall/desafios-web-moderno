@@ -1,6 +1,6 @@
 const sequence = {
-  _id = 1,
-  id = () => this._id++
+  _id: 1,
+  id: () => this._id++
 }
 
 const bd = {};
