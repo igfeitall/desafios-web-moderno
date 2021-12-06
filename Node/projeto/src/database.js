@@ -7,7 +7,7 @@ const bd = {};
 
 function createProduct(product){
   if(!product.id) product.id = sequence.id;
-
+  bd[product.id] = product;
   return product;
 }
 
