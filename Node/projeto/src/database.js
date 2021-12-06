@@ -1,13 +1,12 @@
 const sequence = {
   _id: 1,
-  id: () => this._id++
+  get id() { return this._id++ }
 }
 
 const bd = {};
 
 function createProduct(product){
-  if(!product.id) product.id = sequence.id();
-  bd[product.id] = product;
+  if(!product.id) product.id = sequence.id;
 
   return product;
 }
@@ -20,4 +19,11 @@ function getProduct(id){
   return bd[id] || {};
 }
 
-module.exports = {createProduct, getProduct, getProducts}
+function deleteProduct(id){
+  const produto = bd[id];
+  delete bd[id];
+
+  return produto;
+}
+
+module.exports = {createProduct, getProduct, getProducts, deleteProduct}
